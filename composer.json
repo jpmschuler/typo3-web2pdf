@@ -8,7 +8,7 @@
   "type": "typo3-cms-extension",
   "require": {
     "typo3/cms-core": "^8.7 || ^9.5",
-    "mpdf/mpdf": "^7.1",
+    "mpdf/mpdf": "^7.1 || ^8",
     "php": ">=7.0"
   },
   "require-dev": {
